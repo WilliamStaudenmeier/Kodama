@@ -4,4 +4,4 @@ I'm a big fan of Hayao Miyazaki and am looking forward to his next movie coming 
 
 This is created without any libraries using HTML, CSS, and a touch of JS for the smoke.  
 
-If you like, you can fiddle around with the animation for free on CodePen: [Kodama and Family](https://codepen.io/WilliamStaudenmeier/pen/xxzjgwd).
+If you like, you can fiddle around with the animation for free on CodePen: [Kodama with Family](https://codepen.io/WilliamStaudenmeier/pen/xxzjgwd).
